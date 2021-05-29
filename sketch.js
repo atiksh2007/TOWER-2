@@ -100,7 +100,7 @@ tint(255,0,0)
   block22.display();
   block23.display();
   block24.display();
-  tint(50,0,50)
+  tint(50,50,50)
   block25.display();
 }
 function mouseDragged(){
